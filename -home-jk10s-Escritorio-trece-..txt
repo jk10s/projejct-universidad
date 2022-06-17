@@ -1,0 +1,1 @@
+/home/jk10s/Escritorio/trece/.gitignore
